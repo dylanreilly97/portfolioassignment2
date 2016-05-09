@@ -1,0 +1,193 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+p {
+	color:red;
+}
+
+h3 {
+	color:#240C98;
+}
+
+h1 {
+	color:#0F209F;
+	text-align:center;
+	position:absolute;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+
+.jumbotron {
+	text-align:center;
+	font-family:Arial;
+	display:inline-block;
+	
+}
+
+.footer{
+	background-color:#066C91;
+	color:#FFFFFF;
+	text-align:center;
+	position:fixed;
+}
+
+.container{
+	background-color:white;
+}
+
+a {
+	color:#FFFFFF;
+}
+
+a.hover{
+	color:FF7B07;
+	
+}
+
+.intro-message{
+	background-image:none;
+	background-color:white;
+	
+}
+
+li{
+	color:white;
+
+}
+
+img {
+    width: 530px;
+}
+img:hover {
+    width: 550px;
+}
+
+
+
+a:hover {
+    color: black;
+	bckground-color:white
+}
+
+.legend{
+	text-align:center;
+	color:#220F83;
+	font-size:48px;
+}
+
+
+
+{XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX}
+
+
+@charset "utf-8";
+/* CSS Document */
+
+img{
+	border-radius: 50%;
+	padding:25px;
+}
+
+list-unstyled{
+	margin-left:40%
+}
+
+p{
+	text-align:center;
+	font-size:24px;
+}
+
+body{
+	background-color:gray;
+}
+
+h2{
+	text-align:center;
+	text-decoration:underline;
+	color:#090B80;
+}
+
+h3{
+	text-decoration:underline;
+	font-size:20px;
+	text-color:blue;
+}
+
+li{
+	font-size:18px;
+	text-color:blue;
+}
+
+.footer {
+    position: absolute;
+	
+}
+
+{XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX}
+
+
+@charset "utf-8";
+@charset "utf-8";
+/* CSS Document */
+
+p {
+	color:#5971BD;
+}
+h2{
+	color:#1F14AC;
+}
+
+h3 {
+	color:#FF9400;
+}
+
+h1 {
+	color:#FF9400;
+	text-align:center;
+	position:absolute;
+}
+
+.jumbotron {
+	text-align:center;
+	font-family:Arial;
+	display:inline-block;
+	height:5%;
+	margin-left:5%;
+		margin-right:5%;
+	
+}
+
+.footer{
+	background-color:#066C91;
+	color:#FFFFFF;
+	text-align:center;
+	position:fixed;
+}
+
+.container{
+	background-color:white;
+	width:90%;
+}
+
+a {
+	color:#FFFFFF;
+}
+
+a.hover{
+	color:FF7B07;
+	background-color:white;
+	
+}
+
+.intro-message{
+	background-image:none;
+	background-color:white;
+	
+}
+
+li{
+	color:white;
+
+}/* CSS Document */
